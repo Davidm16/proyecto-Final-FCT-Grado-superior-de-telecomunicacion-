@@ -1,4 +1,4 @@
-import serial, os
+import serial, os, time
 # 0 bomba de agua 
 bomba = False
 # 2 Medidor de humedad de tierra
